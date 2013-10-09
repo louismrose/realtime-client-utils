@@ -1,0 +1,5 @@
+{
+  "name": "realtime-client-utils",
+  "version": "0.0.1",
+  "main": "lib/realtime-client-utils.js",
+}
